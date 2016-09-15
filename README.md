@@ -1,7 +1,6 @@
-# Ember-example
+# Em-SPIN
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Three SPIN questions, Ember style.
 
 ## Prerequisites
 
@@ -16,7 +15,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-example`
+* `cd Em-SPIN`
 * `npm install`
 * `bower install`
 
